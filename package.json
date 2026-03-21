@@ -12,5 +12,9 @@
   "devDependencies": {
     "jest": "^29.7.0",
     "jsdom": "^24.1.1"
+  },
+  "dependencies": {
+    "glob": "^13.0.6",
+    "lru-cache": "^11.2.7"
   }
 }
